@@ -1,0 +1,3 @@
+com\example\parser\Model\Line.class
+com\example\parser\Service\TransactionService.class
+com\example\parser\Service\ConnectionService.class
